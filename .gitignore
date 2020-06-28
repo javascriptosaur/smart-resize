@@ -1,0 +1,7 @@
+/node_modules
+/output
+.*
+!.prettierrc
+!.gitignore
+!.gitattributes
+package-lock.json
